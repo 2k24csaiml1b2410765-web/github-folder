@@ -27,3 +27,10 @@
    27  git push origin master
    28  git push -u origin main
    29  history
+   30  git status
+   31  git add git_commands.txt
+   32  git commit -m "Added new commands"
+   33  git push -u origin main
+   34  git add testing.py
+   35  git commit -m "update the message"
+   36  git push 
