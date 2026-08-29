@@ -11,3 +11,19 @@
    11  git commit -m "Add testing python file"
    12  git status
    13  history
+   14  git status
+   15  git add git_commands.txt
+   16  git status
+   17  git commit -m"Added git_commands"
+   18  git status
+   19  git remote add origin https://github.com/2k24csaiml1b2410765-web/github-folder.git
+   20  git remote -v
+   21  git push origin master
+   22  git remote set-url origin
+   23  it remote set-url origin https://MY_TOKEN@github.com/2k24csaiml1b2410765-web/github-folder.git
+   24  remote set-url origin https://MY_TOKEN@github.com/2k24csaiml1b2410765-web/github-folder.git
+   25  git remote set-url origin https://MY_TOKEN@github.com/2k24csaiml1b2410765-web/github-folder.git
+   26  git remote -v
+   27  git push origin master
+   28  git push -u origin main
+   29  history
