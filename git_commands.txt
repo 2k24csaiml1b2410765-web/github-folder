@@ -1,0 +1,13 @@
+    1  git --version
+    2  ls -l
+    3  rm testing.py
+    4  ls
+    5  git init
+    6  ls -a
+    7  git init
+    8  git status
+    9  git add testing.py
+   10  git status
+   11  git commit -m "Add testing python file"
+   12  git status
+   13  history
